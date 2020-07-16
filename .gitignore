@@ -1,0 +1,10 @@
+*.o
+*.so
+*.obj
+*.out
+*.orig
+stest
+dmenu
+dmenu_path
+dmenu_run
+
